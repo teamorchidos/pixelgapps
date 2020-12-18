@@ -66,7 +66,6 @@ PRODUCT_PACKAGES += \
     GoogleServicesFramework \
     MapsDynamite \
     MatchmakerPrebuiltPixel4 \
-    NexusLauncherRelease \
     OTAConfigPrebuilt \
     Phonesky \
     PixelSetupWizard \
